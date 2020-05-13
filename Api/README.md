@@ -1,2 +1,2 @@
 # Api
-Simple Netcracker Project for interview purposes
+Simple Api Netcracker Project for interview purposes
