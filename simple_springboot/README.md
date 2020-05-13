@@ -1,2 +1,2 @@
 # Programs
-snippets for coding
+ snippets for coding
